@@ -108,3 +108,5 @@ target/
 
 
 *.sqlite
+
+*.db
